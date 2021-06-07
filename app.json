@@ -1,0 +1,12 @@
+{
+  "name": "travel-app-yarn",
+  "displayName": "travel-app-yarn",
+  "expo": {
+    "name": "travel-app-yarn",
+    "slug": "travel-app-yarn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
